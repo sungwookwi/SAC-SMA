@@ -1,2 +1,2 @@
 # SAC-SMA
-Sacramento Soil Moisture Accounting Model
+Distributed Sacramento Soil Moisture Accounting Model
